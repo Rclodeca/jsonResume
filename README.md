@@ -34,15 +34,14 @@
 	*Worked in a team of 4, but I was solely responsable for the programming and UI development
 	*Presented the project to a board at the silicon valley company Xilinx
 	
-}
-{
          
-	    "Dog Trivia": 
-	      {
-		"Created an Amazon Alexa skill trivia game. User interacts with their Amazon Alexa to play.
-	*Used python, json, and Amazon web services (AWS)
+	 
+Dog Trivia 
+	      
+"Created an Amazon Alexa skill trivia game. User interacts with their Amazon Alexa to play.
+	Used python, json, and Amazon web services (AWS)
 		
-  ],
+ 
   "Clubs": [
 	{
 	   "Aztec Game Lab": 
